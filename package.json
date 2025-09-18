@@ -1,0 +1,17 @@
+{
+  "name": "baseline-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint tests --ext .js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Demo project to showcase eslint-plugin-baseline",
+  "devDependencies": {
+    "eslint": "^9.35.0"
+  }
+}
